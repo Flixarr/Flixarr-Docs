@@ -1,0 +1,2 @@
+# docs
+Flixarr's documentation
